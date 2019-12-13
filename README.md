@@ -31,7 +31,7 @@ Para que o **Gmail** funcione com esse sistema primeiro devemos habilitar a opç
 <img src="Documents/activeMail.png">
 
 ## Configuração de projeto.
-Configure o e-mail responsavél por enviar os alertas.
+Configure o e-mail responsavél por enviar os alertas na arquivo "**mailsend.js** no diretório "**src\controllers**" ".
 <br>
 <br>
 <img src="Documents/configMail.png">
