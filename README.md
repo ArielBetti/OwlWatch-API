@@ -13,7 +13,7 @@ Dentro do projeto de um yarn install ou npm install
 yarn install
 ```
 
-## Como iniciar o projeto
+# Como iniciar o projeto
 
 ### Desenvolvimento
 
