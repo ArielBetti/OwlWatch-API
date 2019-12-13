@@ -1,6 +1,6 @@
 # OwlWatch
 
-> API desenvolvida em Nodejs para envio automatizado de emails.
+> API desenvolvida em Nodejs para envios automáticos de emails programados.
 
 ## Instalação
 
@@ -25,7 +25,7 @@ yarn dev
 Siga o passo a passo para rodar o projeto localmente.
 
 ## Configurando email de alertas.
-Para que o **Gmail** funcione com esse sistema primeiros devemos habilitar a opção de <a href="https://myaccount.google.com/lesssecureapps?pli=1">Acesso a apps</a>
+Para que o **Gmail** funcione com esse sistema primeiro devemos habilitar a opção de <a href="https://myaccount.google.com/lesssecureapps?pli=1">Acesso a apps</a>
 <br>
 <br>
 <img src="Documents/activeMail.png">
