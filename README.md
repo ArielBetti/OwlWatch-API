@@ -21,7 +21,8 @@ yarn install
 yarn dev
 ```
 
-## Como utilizar essa API
+# Como utilizar essa API
+Siga o passo a passo para rodar o projeto localmente.
 
 ## Configuração de projeto.
 Configure o e-mail responsavél por enviar os alertas.
@@ -29,7 +30,7 @@ Configure o e-mail responsavél por enviar os alertas.
 <br>
 <img src="Documents/configMail.png">
 
-#### Passo a passo
+#### Requisições
 Essa API REST utiliza uma rota **POST** faça uma requisição para **http://localhost:8080/createAlert** 
 você pode fazer isso com o software que preferir, nesse exemplo estarei utiizando o **Insomnia**
 
